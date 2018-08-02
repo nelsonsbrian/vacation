@@ -1,0 +1,20 @@
+p {
+  font-size: 28px;
+}
+
+blockquote p {
+  font-size: 22px;
+}
+
+blockquote footer {
+  font-size: 20px;
+}
+
+.explain p {
+  font-size: 19px;
+  margin: 40px;
+}
+
+address {
+  font-size: 18px;
+}
