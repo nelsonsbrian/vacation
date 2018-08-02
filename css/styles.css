@@ -18,3 +18,36 @@ blockquote footer {
 address {
   font-size: 18px;
 }
+
+.col-md-4 {
+  /*outline: 3px solid black;
+  outline-offset: -5px;*/
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jumbotron {
+background-color: lightblue;
+}
+
+h3 {
+  font-family: cursive;
+  text-align: center;
+  font-weight: 1500;
+  color: darkred;
+  font-size: 38px;
+  text-decoration: underline;
+
+}
+
+li{
+  font-size: 18px;
+  text-align: left;
+  list-style-type: none;
+}
